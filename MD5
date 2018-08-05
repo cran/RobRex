@@ -1,5 +1,5 @@
-43a3a2c4a0f46a0df8e7c25e3ffb8784 *DESCRIPTION
-233e831ba86ea742c5e1b86535fde232 *NAMESPACE
+61bdecb0bdf36fffc9ccddc1526537f7 *DESCRIPTION
+5753cba90ea1d0fdb3cd104cec2c1d92 *NAMESPACE
 e0f4e107684c458d50caf01f42394f6e *R/rgsOptIC_AL.R
 26fb4952f3589a48d211fdec6c450751 *R/rgsOptIC_ALc.R
 d87f68b6d8b5658d34db2c2991dea279 *R/rgsOptIC_ALs.R
@@ -9,13 +9,13 @@ d87f68b6d8b5658d34db2c2991dea279 *R/rgsOptIC_ALs.R
 467b6d55c2ee667e6851f8313489f728 *R/rgsOptIC_Mc.r
 beb743db5fe6876d3fd66361100c2624 *R/rgsOptIC_Ms.r
 380600e5740f85119846893193171b1a *inst/CITATION
-4301896e0db534d5b9a0c194a0ced3c1 *inst/NEWS
+68aafd430fd921b57605315cb022cc89 *inst/NEWS
 ea86ebebff2c62e8bc2ab1e5d12e1971 *inst/TOBEDONE
-b95aaf3d64963fdbc93c26541bf9fd67 *inst/scripts/ExamplesEstimation.R
-4c6506770ee8d409365bd9845ea98dca *inst/scripts/ExamplesIC.R
+123b21f3d075e99ebdc378d207ac26ac *inst/scripts/ExamplesEstimation.R
+ff4ab81e6fc094da302869ff46e2c5a5 *inst/scripts/ExamplesIC.R
 66f898633e893be77c39365a33d4c97d *inst/scripts/example.R
 a7db096657bb6056dda72f961e246f0c *man/rgsOptIC.AL.Rd
-e49978537ec00ae377edc65b4b7fa109 *man/rgsOptIC.ALc.Rd
+c9e7a073a767b2ffd0f1402836e4ba1f *man/rgsOptIC.ALc.Rd
 b369037e3f8a77028c1ae548e22335ab *man/rgsOptIC.ALs.Rd
 cb1a73a43c3f04afad9dfdbe569bc244 *man/rgsOptIC.BM.Rd
 ce97a287e5332a6d4340f46f2f8b87bf *man/rgsOptIC.M.Rd
